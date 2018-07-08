@@ -1,7 +1,7 @@
 This is a sanke game made using native Javascript.
 
 
-!["Snake gameplay"](/home/shannon/Pictures/snake_gameplay.png) 
+!["Snake gameplay"](https://github.com/slashtea/Snake-game/blob/master/images/snake_gameplay.png) 
 
 It's freatures are:
   * Canvas.
